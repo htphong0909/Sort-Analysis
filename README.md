@@ -65,7 +65,7 @@ Dự án này đã tiến hành so sánh hiệu năng của năm thuật toán s
 https://github.com/htphong0909/Sort-Analysis
 
 ### IV Phụ lục
-- **A.Dữ liệu đầu vào:**<a href="https://drive.google.com/drive/folders/1gCGVC1Cbuhh09TLJvy3u0veBZCEXCfeT?usp=sharing"><img src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/512/Google-Drive-icon.png" alt="Google Drive Folder" width="20" height="20">
-</a>
-- **B.Kết quả thời gian chạy:**<a href="https://drive.google.com/drive/folders/1gvoDGEtTTwyBKINSt_mVGvw-kkRBlqZK?usp=sharing"><img src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/512/Google-Drive-icon.png" alt="Google Drive Folder" width="20" height="20">
-</a> 
+- **A.Dữ liệu đầu vào:** <a href="https://drive.google.com/drive/folders/1gCGVC1Cbuhh09TLJvy3u0veBZCEXCfeT?usp=sharing"><img src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/512/Google-Drive-icon.png" alt="Google Drive Folder" width="20" height="20"></a>
+
+- **B.Kết quả thời gian chạy:** <a href="https://drive.google.com/drive/folders/1gvoDGEtTTwyBKINSt_mVGvw-kkRBlqZK?usp=sharing"><img src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/512/Google-Drive-icon.png" alt="Google Drive Folder" width="20" height="20"></a>
+
