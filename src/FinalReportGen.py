@@ -4,12 +4,11 @@ import matplotlib.pyplot as plt
 import glob
 import dataframe_image as dfi
 
-def create_report(reports_dir, output_filepath="reports/report.png", table_output_filepath = "reports/table.png"):
+def create_report(reports_dir, output_filepath="reports/chart.png", table_output_filepath = "reports/table.png"):
     """Tạo bảng, biểu đồ và lưu."""
 
     data = {}
 
-    # ... (Phần đọc dữ liệu từ file report - giữ nguyên) ...
     for report_file in glob.glob(os.path.join(reports_dir, "*_report.txt")):
         algorithm_name = os.path.basename(report_file).replace("_report.txt", "")
         data[algorithm_name] = []
@@ -41,7 +40,6 @@ def create_report(reports_dir, output_filepath="reports/report.png", table_outpu
     print("\n")
 
     # --- Tạo biểu đồ cột ---
-    # Bỏ cột numpy nếu không có
     plot_df = df.drop("sort (numpy)", axis=1, errors='ignore').copy()
     plot_df = plot_df.drop("Trung bình", axis=0, errors='ignore')
 
@@ -57,11 +55,11 @@ def create_report(reports_dir, output_filepath="reports/report.png", table_outpu
         ax.annotate(f"{p.get_height():.0f}",
                     (p.get_x() + p.get_width() / 2., p.get_height()),
                     ha='center', va='center',
-                    xytext=(0, 5),  # Giảm khoảng cách dọc
+                    xytext=(0, 5), 
                     textcoords='offset points',
-                    fontsize=8)    # Giảm fontsize
+                    fontsize=8)    
 
-    plt.ylim(0, max(df.max()) * 1.3)  # Tăng giới hạn trên
+    plt.ylim(0, max(df.max()) * 1.3) 
     plt.tight_layout()
     plt.savefig(output_filepath)
     plt.show()
@@ -71,7 +69,7 @@ def create_report(reports_dir, output_filepath="reports/report.png", table_outpu
 def main():
     reports_dir = "../reports" 
     os.makedirs(reports_dir, exist_ok=True)
-    create_report(reports_dir, "../reports/report.png", "../reports/table.png")
+    create_report(reports_dir, "../reports/chart.png", "../reports/table.png")
 
 if __name__ == "__main__":
     main()
