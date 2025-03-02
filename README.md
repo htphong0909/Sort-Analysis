@@ -32,6 +32,8 @@ Sinh dữ liệu $\rightarrow$ chạy các thuật toán $\rightarrow$ vẽ bi�
         - Cờ tối ưu:
         ```-std=c++17 -O3 -Wall -Wextra -pedantic -march=native -flto -funroll-loops```
     - Môi trường Python: Python phiên bản $3.13.2$
+  - **F. Video demo quá trình sinh - phân tích dữ liệu:** <a href="https://drive.google.com/file/d/1VdHf1VKD2q-3ac7ZiDzRZVOhY_GGO14s/view?usp=sharing"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="Google Drive Folder" width="40" height="40">
+</a> 
 
 
 #### 2.Bảng thời gian thực hiện
@@ -65,7 +67,7 @@ Dự án này đã tiến hành so sánh hiệu năng của năm thuật toán s
 https://github.com/htphong0909/Sort-Analysis
 
 ### IV Phụ lục
-- **A.Dữ liệu đầu vào:** <a href="https://drive.google.com/drive/folders/1gCGVC1Cbuhh09TLJvy3u0veBZCEXCfeT?usp=sharing"><img src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/512/Google-Drive-icon.png" alt="Google Drive Folder" width="20" height="20"></a>
+- **A.Dữ liệu đầu vào:** <a href="https://drive.google.com/drive/folders/1gCGVC1Cbuhh09TLJvy3u0veBZCEXCfeT?usp=sharing"><img src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/512/Google-Drive-icon.png" alt="Google Drive Folder" width="35" height="35"></a>
 
-- **B.Kết quả thời gian chạy:** <a href="https://drive.google.com/drive/folders/1gvoDGEtTTwyBKINSt_mVGvw-kkRBlqZK?usp=sharing"><img src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/512/Google-Drive-icon.png" alt="Google Drive Folder" width="20" height="20"></a>
+- **B.Kết quả thời gian chạy:** <a href="https://drive.google.com/drive/folders/1gvoDGEtTTwyBKINSt_mVGvw-kkRBlqZK?usp=sharing"><img src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/512/Google-Drive-icon.png" alt="Google Drive Folder" width="35" height="35"></a>
 
