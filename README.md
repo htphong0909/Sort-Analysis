@@ -63,10 +63,10 @@ Dự án này đã tiến hành so sánh hiệu năng của năm thuật toán s
 *   Trong C++, **`std::sort` là lựa chọn tốt** và thường nhanh hơn đáng kể so với các cài đặt thủ công của QuickSort, HeapSort, và MergeSort.
 *   Kết quả này *khẳng định tầm quan trọng của việc lựa chọn thuật toán và thư viện phù hợp*. Việc sử dụng các thư viện được tối ưu hóa (như NumPy và thư viện chuẩn C++) có thể mang lại hiệu suất vượt trội so với các cài đặt tự viết.
 
-### III Thông tin chi tiết - link github
+### III.Thông tin chi tiết - link github
 https://github.com/htphong0909/Sort-Analysis
 
-### IV Phụ lục
+### IV.Phụ lục
 - **a.Dữ liệu đầu vào:** <a href="https://drive.google.com/drive/folders/1gCGVC1Cbuhh09TLJvy3u0veBZCEXCfeT?usp=sharing"><img src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/512/Google-Drive-icon.png" alt="Google Drive Folder" width="35" height="35"></a>
 
 - **b.Kết quả thời gian chạy:** <a href="https://drive.google.com/drive/folders/1gvoDGEtTTwyBKINSt_mVGvw-kkRBlqZK?usp=sharing"><img src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/512/Google-Drive-icon.png" alt="Google Drive Folder" width="35" height="35"></a>
