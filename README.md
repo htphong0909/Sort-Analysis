@@ -32,7 +32,7 @@ Sinh dữ liệu $\rightarrow$ chạy các thuật toán $\rightarrow$ vẽ bi�
         - Cờ tối ưu:
         ```-std=c++17 -O3 -Wall -Wextra -pedantic -march=native -flto -funroll-loops```
     - Môi trường Python: Python phiên bản $3.13.2$
-  - **F. Video demo quá trình sinh - phân tích dữ liệu:** <a href="https://drive.google.com/file/d/1VdHf1VKD2q-3ac7ZiDzRZVOhY_GGO14s/view?usp=sharing"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="Google Drive Folder" width="40" height="40">
+- **F. Video demo quá trình sinh - phân tích dữ liệu:** <a href="https://drive.google.com/file/d/1VdHf1VKD2q-3ac7ZiDzRZVOhY_GGO14s/view?usp=sharing"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="Google Drive Folder" width="40" height="40">
 </a> 
 
 
