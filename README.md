@@ -35,9 +35,9 @@ Sinh dữ liệu $\rightarrow$ chạy các thuật toán $\rightarrow$ vẽ bi�
 
 
 #### 2.Bảng thời gian thực hiện
-![table](https://hackmd.io/_uploads/Byym-oWoJg.png)
+![chart](https://github.com/user-attachments/assets/7af99eb3-39ce-4cfa-8140-8127dfd1af17)
 #### 3.Biểu đồ cột thời gian thực hiện
-![report](https://hackmd.io/_uploads/r1gyZ6Zike.png)
+![table](https://github.com/user-attachments/assets/86615df1-b773-45dc-8b5a-74b413ec48c1)
 ### II.Kết luận:
 
 Dự án này đã tiến hành so sánh hiệu năng của năm thuật toán sắp xếp: Quicksort, Heapsort, Mergesort, `std::sort` (C++), và `np.sort` (Python/NumPy) trên bộ dữ liệu gồm $10$ test case, mỗi test case chứa một mảng số thực có kích thước lớn (khoảng $10^6$ phần tử). Thời gian thực thi của mỗi thuật toán trên mỗi test case đã được đo và ghi lại, sau đó tính giá trị trung bình. Kết quả được trình bày trong bảng và biểu đồ sau:
