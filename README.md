@@ -62,4 +62,10 @@ Dự án này đã tiến hành so sánh hiệu năng của năm thuật toán s
 *   Kết quả này *khẳng định tầm quan trọng của việc lựa chọn thuật toán và thư viện phù hợp*. Việc sử dụng các thư viện được tối ưu hóa (như NumPy và thư viện chuẩn C++) có thể mang lại hiệu suất vượt trội so với các cài đặt tự viết.
 
 ### III Thông tin chi tiết - link github
+https://github.com/htphong0909/Sort-Analysis
 
+### IV Phụ lục
+- **A.Dữ liệu đầu vào:**<a href="https://drive.google.com/drive/folders/1gCGVC1Cbuhh09TLJvy3u0veBZCEXCfeT?usp=sharing"><img src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/512/Google-Drive-icon.png" alt="Google Drive Folder" width="20" height="20">
+</a>
+- **B.Kết quả thời gian chạy:**<a href="https://drive.google.com/drive/folders/1gvoDGEtTTwyBKINSt_mVGvw-kkRBlqZK?usp=sharing"><img src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/512/Google-Drive-icon.png" alt="Google Drive Folder" width="20" height="20">
+</a> 
